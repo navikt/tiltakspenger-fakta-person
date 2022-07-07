@@ -3,7 +3,7 @@ val ktorVersion = "2.0.2"
 val kotlinxSerializationVersion = "1.3.3"
 
 plugins {
-    kotlin("jvm") version "1.7.0"
+    kotlin("jvm") version "1.7.10"
     id("org.jmailen.kotlinter") version "3.10.0"
 }
 
